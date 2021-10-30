@@ -1,5 +1,7 @@
 */.ipynb_checkpoints/*
 */data/
+*/trash/
+*/checkpoint/
 Lab1/01_mnist_gan(raw).ipynb
 Lab1/images/
 Lab2/02_DcGAN(raw).ipynb
