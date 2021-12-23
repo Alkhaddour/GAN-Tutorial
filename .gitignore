@@ -26,5 +26,5 @@ Lab4/MNIST/.idea/
 Lab4/MNIST/.ipynb_checkpoints/*
 Lab4/MNIST/data/
 Lab4/MNIST/models/
-
+Lab4/MNIST/__pycache__/
 
